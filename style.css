@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: beige;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 5px;
+  text-transform: uppercase;
+  align-items: center;
+}
+
+h1 {
+  align-items: center;
+}
